@@ -1,0 +1,857 @@
+delete from arrecad where (k00_numpre, k00_numpar) = (944454, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944454, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944454, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944454, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944454, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944454, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944495, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944495, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944495, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944495, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944495, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944495, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944498, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944498, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944498, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944498, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944498, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944498, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944502, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944502, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944502, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944502, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944502, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944502, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944510, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944510, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944510, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944510, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944510, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944510, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944517, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944517, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944517, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944517, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944517, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944517, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944520, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944520, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944520, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944520, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944520, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944520, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944529, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944529, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944529, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944529, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944529, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944529, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944537, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944537, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944537, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944537, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944537, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944537, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944540, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944540, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944540, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944540, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944540, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944540, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944542, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944542, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944542, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944542, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944542, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944542, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944543, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944543, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944543, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944543, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944543, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944543, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944548, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944548, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944548, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944548, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944548, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944548, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944551, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944551, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944551, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944551, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944551, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944551, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944553, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944553, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944553, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944553, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944553, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944553, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944564, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944564, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944564, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944564, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944564, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944564, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944566, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944566, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944566, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944566, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944566, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944566, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944583, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944583, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944583, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944583, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944583, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944583, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944643, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944643, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944643, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944643, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944643, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944643, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944650, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944650, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944650, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944650, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944650, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944650, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944668, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944668, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944668, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944668, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944668, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944668, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944671, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944671, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944671, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944671, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944671, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944671, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944679, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944679, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944679, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944679, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944679, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944679, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944681, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944681, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944681, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944681, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944681, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944681, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944682, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944682, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944682, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944682, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944682, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944682, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944688, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944688, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944688, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944688, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944688, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944688, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944698, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944698, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944698, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944698, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944698, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944698, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944712, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944712, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944712, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944712, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944712, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944712, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944717, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944717, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944717, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944717, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944717, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944717, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944725, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944725, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944725, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944725, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944725, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944725, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944727, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944727, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944727, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944727, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944727, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944727, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944732, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944732, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944732, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944732, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944732, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944732, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944733, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944733, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944733, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944733, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944733, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944733, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944738, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944738, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944738, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944738, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944738, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944738, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944755, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944755, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944755, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944755, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944755, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944755, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944757, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944757, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944757, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944757, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944757, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944757, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944758, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944758, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944758, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944758, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944758, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944758, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944767, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944767, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944767, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944767, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944767, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944767, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944769, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944769, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944769, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944769, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944769, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944769, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944770, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944770, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944770, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944770, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944770, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944770, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944780, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944780, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944780, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944780, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944780, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944780, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944797, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944797, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944797, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944797, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944797, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944797, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944799, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944799, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944799, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944799, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944799, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944799, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944836, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944836, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944836, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944836, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944836, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944836, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944840, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944840, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944840, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944840, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944840, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944840, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944841, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944841, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944841, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944841, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944841, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944841, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944845, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944845, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944845, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944845, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944845, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944845, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944851, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944851, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944851, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944851, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944851, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944851, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944871, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944871, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944871, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944871, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944871, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944871, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944879, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944879, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944879, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944879, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944879, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944879, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944883, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944883, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944883, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944883, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944883, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944883, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944886, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944886, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944886, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944886, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944886, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944886, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944888, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944888, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944888, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944888, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944888, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944888, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944889, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944889, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944889, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944889, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944889, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944889, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944899, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944899, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944899, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944899, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944899, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944899, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944902, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944902, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944902, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944902, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944902, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944902, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944934, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944934, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944934, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944934, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944934, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944934, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944949, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944949, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944949, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944949, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944949, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944949, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944961, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944961, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944961, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944961, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944961, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944961, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944968, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944968, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944968, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944968, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944968, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944968, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944977, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944977, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944977, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944977, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944977, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944977, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944982, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944982, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944982, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944982, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944982, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944982, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944983, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944983, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944983, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944983, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944983, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944983, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944985, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944985, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944985, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944985, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944985, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944985, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944994, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944994, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944994, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944994, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944994, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944994, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944995, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944995, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944995, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944995, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944995, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (944995, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945006, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945006, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945006, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945006, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945006, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945006, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945007, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945007, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945007, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945007, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945007, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945007, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945012, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945012, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945012, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945012, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945012, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945012, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945019, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945019, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945019, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945019, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945019, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945019, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945043, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945043, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945043, 3);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945043, 4);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945043, 5);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945043, 6);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945044, 1);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945044, 2);
+
+delete from arrecad where (k00_numpre, k00_numpar) = (945044, 3);

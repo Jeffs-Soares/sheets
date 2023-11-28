@@ -1,0 +1,1286 @@
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944454, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944454, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944454, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944454, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944454, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944454, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944495, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944495, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944495, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944495, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944495, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944495, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944498, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944498, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944498, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944498, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944498, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944498, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944502, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944502, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944502, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944502, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944502, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944502, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944510, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944510, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944510, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944510, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944510, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944510, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944517, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944517, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944517, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944517, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944517, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944517, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944520, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944520, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944520, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944520, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944520, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944520, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944529, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944529, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944529, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944529, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944529, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944529, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944537, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944537, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944537, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944537, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944537, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944537, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944540, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944540, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944540, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944540, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944540, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944540, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 66.59 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944542, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 66.59 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944542, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 66.59 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944542, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 66.59 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944542, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 66.59 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944542, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 66.8 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944542, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 57.47 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944543, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 57.47 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944543, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 57.47 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944543, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 57.47 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944543, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 57.47 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944543, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 57.61 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944543, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944548, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944548, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944548, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944548, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944548, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944548, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944551, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944551, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944551, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944551, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944551, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944551, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944553, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944553, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944553, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944553, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944553, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944553, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944564, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944564, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944564, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944564, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944564, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944564, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944566, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944566, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944566, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944566, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944566, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944566, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944583, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944583, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944583, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944583, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944583, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944583, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944643, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944643, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944643, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944643, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944643, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944643, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944650, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944650, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944650, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944650, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944650, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944650, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944668, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944668, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944668, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944668, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944668, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944668, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944671, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944671, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944671, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944671, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944671, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944671, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 89.72 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944679, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 89.72 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944679, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 89.72 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944679, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 89.72 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944679, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 89.72 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944679, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 89.94 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944679, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944681, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944681, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944681, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944681, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944681, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944681, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944682, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944682, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944682, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944682, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944682, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944682, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944688, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944688, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944688, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944688, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944688, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944688, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944698, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944698, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944698, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944698, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944698, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944698, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944712, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944712, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944712, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944712, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944712, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944712, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944717, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944717, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944717, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944717, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944717, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944717, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944725, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944725, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944725, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944725, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944725, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944725, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944727, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944727, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944727, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944727, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944727, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944727, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944732, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944732, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944732, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944732, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944732, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944732, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944733, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944733, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944733, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944733, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944733, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944733, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944738, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944738, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944738, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944738, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944738, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944738, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944755, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944755, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944755, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944755, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944755, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944755, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944757, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944757, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944757, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944757, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944757, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944757, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944758, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944758, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944758, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944758, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944758, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944758, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944767, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944767, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944767, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944767, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944767, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944767, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944769, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944769, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944769, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944769, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944769, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944769, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944770, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944770, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944770, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944770, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944770, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944770, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944780, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944780, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944780, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944780, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944780, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944780, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944797, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944797, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944797, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944797, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944797, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944797, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944799, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944799, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944799, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944799, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944799, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944799, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944836, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944836, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944836, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944836, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944836, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944836, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944840, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944840, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944840, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944840, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944840, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944840, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944841, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944841, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944841, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944841, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944841, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944841, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944845, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944845, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944845, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944845, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944845, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944845, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 51.83 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944851, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 51.83 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944851, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 51.83 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944851, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 51.83 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944851, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 51.83 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944851, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 51.98 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944851, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 63.01 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944871, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 63.01 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944871, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 63.01 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944871, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 63.01 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944871, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 63.01 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944871, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 63.18 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944871, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944879, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944879, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944879, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944879, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944879, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944879, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944883, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944883, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944883, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944883, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944883, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944883, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944886, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944886, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944886, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944886, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944886, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.28 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944886, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944888, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944888, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944888, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944888, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944888, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.28 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944888, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944889, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944889, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944889, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944889, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944889, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.28 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944889, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944899, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944899, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944899, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944899, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944899, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.28 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944899, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944902, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944902, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944902, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944902, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.13 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944902, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 62.28 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944902, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944934, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944934, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944934, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944934, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944934, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944934, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944949, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944949, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944949, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944949, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944949, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944949, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944961, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944961, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944961, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944961, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944961, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944961, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944968, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944968, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944968, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944968, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944968, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944968, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944977, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944977, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944977, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944977, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944977, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944977, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944982, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944982, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944982, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944982, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944982, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944982, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944983, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944983, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944983, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944983, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944983, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944983, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944985, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944985, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944985, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944985, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944985, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944985, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944994, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944994, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944994, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944994, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944994, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944994, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944995, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944995, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944995, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944995, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944995, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (944995, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945006, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945006, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945006, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945006, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945006, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945006, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945007, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945007, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945007, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945007, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945007, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945007, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945012, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945012, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945012, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945012, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945012, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945012, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945019, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945019, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945019, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945019, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945019, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945019, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945043, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945043, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945043, 3);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945043, 4);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945043, 5);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.84 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945043, 6);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945044, 1);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945044, 2);
+
+insert into arrepaga
+	 		select k00_numcgm,k00_dtoper, 206, 101, 49.7 ,k00_dtvenc,k00_numpre,k00_numpar,k00_numtot,k00_numdig,0 , '2022-05-03' from arrecad where (k00_numpre, k00_numpar) = (945044, 3);

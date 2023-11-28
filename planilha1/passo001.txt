@@ -1,0 +1,5885 @@
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (360982, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361007, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361017, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361036, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361043, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361048, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361049, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361062, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361066, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361082, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361085, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361086, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361087, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361088, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361107, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361119, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361144, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361148, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361161, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361162, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361176, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361184, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361201, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361203, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361214, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361217, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361219, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361220, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361222, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361231, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361237, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361238, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361241, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361243, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361249, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361250, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361258, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361259, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361260, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361264, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361270, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361272, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361275, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361280, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361282, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361285, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361287, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361291, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361303, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361312, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361313, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361318, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361319, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361320, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361324, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361325, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361326, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361328, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361333, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361335, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361336, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361337, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361338, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361339, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361341, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361342, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361344, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361348, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361351, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361354, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361357, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361360, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361365, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361366, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361375, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361380, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361381, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361382, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361383, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361384, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361387, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361388, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361390, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361393, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361394, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361401, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361402, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361413, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361416, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361417, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361420, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361421, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361425, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361429, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361442, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361444, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361446, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361451, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361454, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361455, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361457, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361459, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361460, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361462, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361463, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361479, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361480, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361484, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361489, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361490, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361491, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361492, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361493, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361494, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361495, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361503, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361507, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361508, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361509, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361516, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361518, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361522, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361524, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361526, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361527, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361539, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361547, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361561, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361562, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361569, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361570, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361573, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361578, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361581, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361590, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361591, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361592, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361596, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361604, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361605, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361606, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361615, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361622, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361627, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361634, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361646, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361647, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361650, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361652, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361654, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361655, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361656, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361674, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361680, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361682, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361685, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361693, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361698, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361703, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361705, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361706, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361710, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361718, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361724, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361727, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361728, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361729, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361738, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361745, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361748, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361749, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361750, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361752, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361755, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (361759, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461502, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461504, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461507, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461508, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461510, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461518, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461529, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461543, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461545, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461546, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461550, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461552, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461554, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461555, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461557, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461558, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461563, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461564, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461565, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461568, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461573, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461574, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461575, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461576, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461582, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461585, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461587, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461592, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461594, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461597, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461604, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461609, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461614, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461615, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461616, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461621, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (461633, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (525749, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382216, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382251, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382270, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382277, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382281, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382282, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382295, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382299, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382315, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382318, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382319, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382320, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382321, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382339, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382351, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382376, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382380, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382393, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382394, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382408, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382416, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382433, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382435, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382446, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382449, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382451, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382452, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382454, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382463, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382470, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382475, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382481, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382482, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382490, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382491, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382492, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382496, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382502, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382504, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382507, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382512, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382514, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382517, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382519, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382523, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382535, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382544, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382545, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382550, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382551, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382552, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382556, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382557, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382558, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382560, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382565, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382567, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382568, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382569, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382570, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382571, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382573, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382574, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382576, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382580, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382583, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382586, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382589, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382592, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382597, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382598, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382607, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382612, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382613, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382614, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382615, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382616, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382619, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382620, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382622, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382625, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382626, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382633, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382634, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382645, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382648, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382649, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382652, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382653, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382657, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382661, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382674, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382676, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382678, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382683, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382686, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382687, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382689, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382691, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382692, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382694, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382695, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382711, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382712, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382716, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382721, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382722, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382723, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382724, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382725, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382726, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382727, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382735, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382739, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382740, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382741, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382748, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382750, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382754, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382756, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382758, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382759, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382771, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382780, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382794, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382795, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382802, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382803, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382806, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382811, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382814, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382823, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382824, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382825, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382829, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382837, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382838, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382839, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382847, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382854, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382859, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382866, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382878, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382879, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382882, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382884, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382887, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382888, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382889, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382907, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382913, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382915, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382918, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382926, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382931, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382936, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382938, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382939, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382943, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382951, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382957, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382960, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382961, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382962, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382971, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382979, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382982, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382983, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382984, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382986, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382989, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (382993, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466034, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466036, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466038, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466039, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466041, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466048, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466058, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466072, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466075, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466076, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466080, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466082, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466084, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466085, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466087, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466088, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466094, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466095, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466096, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466099, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466105, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466106, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466107, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466108, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466112, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466115, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466117, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466123, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466125, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466128, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466135, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466140, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466144, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466145, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466146, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466151, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (466164, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (527927, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408718, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408742, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408758, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408765, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408769, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408770, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408781, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408785, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408789, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408799, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408802, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408803, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408804, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408805, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408820, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408831, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408854, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408857, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408861, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408866, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408867, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408879, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408886, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408889, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408900, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408902, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408911, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408914, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408916, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408917, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408919, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408924, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408927, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408933, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408938, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408942, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408943, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408950, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408951, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408952, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408956, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408961, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408963, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408966, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408970, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408971, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408972, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408973, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408974, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408976, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408979, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408990, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408998, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (408999, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409004, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409005, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409006, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409008, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409009, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409010, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409015, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409017, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409018, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409019, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409020, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409021, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409022, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409024, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409025, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409027, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409030, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409033, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409036, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409038, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409041, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409057, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409058, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409059, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409060, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409061, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409064, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409065, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409066, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409069, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409070, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409076, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409077, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409087, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409090, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409091, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409094, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409097, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409101, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409112, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409114, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409115, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409120, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409123, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409124, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409125, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409127, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409128, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409130, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409131, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409135, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409145, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409146, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409149, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409154, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409155, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409156, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409157, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409158, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409159, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409160, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409165, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409168, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409169, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409170, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409176, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409178, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409181, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409183, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409184, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409195, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409197, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409198, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409199, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409201, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409214, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409215, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409219, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409220, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409223, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409226, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409229, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409234, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409237, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409238, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409239, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409241, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409248, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409249, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409250, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409257, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409262, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409267, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409273, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409281, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409284, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409285, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409288, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409290, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409291, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409292, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409293, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409309, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409314, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409316, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409319, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409326, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409330, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409335, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409337, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409338, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409348, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409353, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409356, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409357, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409358, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409366, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409373, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409376, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409377, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409378, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409379, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409382, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (409386, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (410624, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470919, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470922, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470924, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470941, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470942, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470944, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470946, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470948, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470949, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470953, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470954, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470955, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470956, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470957, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470962, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470963, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470964, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470965, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470968, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470969, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470976, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470978, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470980, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (470985, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437692, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437722, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437738, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437745, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437749, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437750, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437761, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437765, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437769, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437778, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437779, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437780, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437781, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437783, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437784, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437785, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437786, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437811, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437834, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437837, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437841, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437848, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437849, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437863, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437870, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437872, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437882, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437884, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437893, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437896, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437898, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437899, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437900, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437905, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437908, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437912, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437914, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437919, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437923, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437924, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437931, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437932, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437933, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437937, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437942, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437943, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437944, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437945, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437948, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437952, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437953, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437954, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437955, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437956, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437957, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437958, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437961, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437966, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437972, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437979, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437980, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437985, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437986, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437987, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437989, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437990, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437991, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437996, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437997, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437998, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (437999, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438000, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438001, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438002, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438003, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438005, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438006, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438008, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438011, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438014, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438017, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438019, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438021, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438033, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438037, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438038, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438039, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438040, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438041, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438044, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438045, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438046, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438049, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438050, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438056, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438057, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438064, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438067, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438070, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438071, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438074, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438076, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438078, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438080, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438090, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438092, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438093, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438098, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438104, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438105, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438106, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438108, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438109, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438110, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438111, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438115, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438125, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438126, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438128, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438129, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438132, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438133, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438134, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438135, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438136, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438137, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438138, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438145, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438146, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438149, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438150, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438151, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438157, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438159, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438162, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438165, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438166, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438177, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438179, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438180, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438181, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438183, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438196, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438197, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438201, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438202, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438204, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438207, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438210, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438215, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438218, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438219, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438220, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438223, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438230, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438231, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438232, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438240, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438246, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438250, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438256, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438263, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438266, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438267, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438270, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438272, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438273, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438274, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438275, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438291, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438296, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438298, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438301, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438308, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438312, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438316, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438318, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438319, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438329, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438333, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438336, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438337, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438338, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438345, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438352, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438355, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438356, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438357, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438360, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (438364, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473770, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473772, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473780, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473782, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473783, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473785, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473786, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473787, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473788, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473795, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473799, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (473800, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610467, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610467, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610467, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610467, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610467, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610467, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610491, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610491, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610491, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610491, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610491, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610491, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610507, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610507, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610507, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610507, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610507, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610507, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610513, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610513, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610513, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610513, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610513, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610513, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610517, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610517, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610517, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610517, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610517, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610517, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610518, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610518, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610518, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610518, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610518, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610518, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610530, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610530, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610530, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610530, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610530, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610530, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610534, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610534, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610534, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610534, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610534, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610534, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610535, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610535, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610535, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610535, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610535, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610535, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610538, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610538, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610538, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610538, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610538, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610538, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610545, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610545, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610545, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610545, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610545, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610545, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610546, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610546, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610546, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610546, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610546, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610546, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610548, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610548, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610548, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610548, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610548, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610548, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610549, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610549, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610549, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610549, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610549, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610549, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610550, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610550, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610550, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610550, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610550, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610550, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610551, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610551, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610551, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610551, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610551, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610551, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610561, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610561, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610561, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610561, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610561, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610561, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610567, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610567, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610567, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610567, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610567, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610567, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610577, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610577, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610577, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610577, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610577, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610577, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610600, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610600, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610600, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610600, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610600, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610600, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610606, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610606, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610606, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610606, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610606, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610606, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610612, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610612, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610612, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610612, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610612, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610612, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610613, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610613, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610613, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610613, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610613, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610613, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610625, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610625, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610625, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610625, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610625, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610625, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610632, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610632, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610632, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610632, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610632, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610632, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610635, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610635, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610635, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610635, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610635, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610635, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610645, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610645, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610645, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610645, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610645, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610645, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610647, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610647, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610647, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610647, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610647, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610647, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610656, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610656, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610656, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610656, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610656, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610656, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610659, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610659, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610659, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610659, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610659, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610659, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610661, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610661, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610661, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610661, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610661, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610661, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610662, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610662, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610662, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610662, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610662, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610662, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610664, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610664, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610664, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610664, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610664, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610664, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610669, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610669, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610669, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610669, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610669, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610669, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610672, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610672, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610672, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610672, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610672, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610672, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610675, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610675, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610675, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610675, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610675, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610675, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610676, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610676, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610676, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610676, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610676, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610676, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610678, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610678, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610678, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610678, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610678, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610678, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610681, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610681, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610681, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610681, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610681, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610681, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610687, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610687, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610687, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610687, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610687, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610687, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610688, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610688, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610688, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610688, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610688, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610688, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610695, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610695, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610695, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610695, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610695, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610695, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610696, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610696, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610696, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610696, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610696, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610696, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610697, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610697, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610697, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610697, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610697, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610697, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610701, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610701, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610701, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610701, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610701, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610701, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610706, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610706, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610706, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610706, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610706, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610706, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610707, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610707, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610707, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610707, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610707, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610707, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610711, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610711, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610711, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610711, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610711, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610711, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610713, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610713, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610713, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610713, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610713, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610713, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610715, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610715, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610715, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610715, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610715, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610715, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610716, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610716, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610716, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610716, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610716, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610716, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610717, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610717, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610717, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610717, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610717, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610717, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610718, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610718, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610718, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610718, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610718, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610718, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610719, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610719, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610719, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610719, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610719, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610719, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610721, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610721, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610721, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610721, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610721, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610721, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610723, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610723, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610723, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610723, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610723, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610723, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610724, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610724, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610724, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610724, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610724, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610724, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610729, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610729, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610729, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610729, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610729, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610729, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610734, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610734, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610734, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610734, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610734, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610734, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610741, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610741, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610741, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610741, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610741, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610741, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610742, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610742, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610742, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610742, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610742, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610742, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610743, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610743, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610743, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610743, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610743, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610743, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610744, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610744, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610744, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610744, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610744, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610744, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610745, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610745, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610745, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610745, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610745, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610745, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610747, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610747, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610747, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610747, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610747, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610747, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610748, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610748, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610748, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610748, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610748, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610748, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610749, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610749, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610749, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610749, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610749, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610749, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610751, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610751, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610751, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610751, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610751, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610751, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610752, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610752, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610752, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610752, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610752, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610752, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610753, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610753, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610753, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610753, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610753, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610753, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610757, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610757, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610757, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610757, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610757, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610757, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610758, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610758, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610758, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610758, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610758, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610758, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610759, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610759, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610759, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610759, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610759, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610759, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610760, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610760, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610760, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610760, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610760, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610760, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610761, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610761, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610761, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610761, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610761, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610761, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610762, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610762, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610762, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610762, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610762, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610762, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610763, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610763, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610763, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610763, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610763, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610763, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610764, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610764, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610764, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610764, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610764, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610764, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610766, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610766, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610766, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610766, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610766, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610766, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610767, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610767, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610767, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610767, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610767, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610767, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610771, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610771, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610771, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610771, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610771, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610771, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610774, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610774, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610774, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610774, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610774, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610774, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610777, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610777, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610777, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610777, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610777, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610777, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610779, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610779, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610779, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610779, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610779, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610779, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610782, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610782, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610782, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610782, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610782, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610782, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610788, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610788, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610788, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610788, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610788, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610788, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610792, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610792, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610792, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610792, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610792, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610792, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610795, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610795, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610795, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610795, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610795, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610795, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610799, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610799, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610799, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610799, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610799, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610799, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610800, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610800, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610800, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610800, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610800, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610800, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610801, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610801, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610801, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610801, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610801, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610801, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610804, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610804, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610804, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610804, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610804, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610804, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610805, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610805, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610805, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610805, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610805, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610805, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610806, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610806, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610806, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610806, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610806, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610806, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610809, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610809, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610809, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610809, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610809, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610809, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610810, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610810, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610810, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610810, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610810, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610810, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610816, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610816, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610816, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610816, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610816, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610816, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610817, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610817, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610817, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610817, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610817, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610817, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610823, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610823, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610823, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610823, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610823, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610823, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610826, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610826, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610826, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610826, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610826, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610826, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610829, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610829, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610829, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610829, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610829, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610829, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610830, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610830, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610830, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610830, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610830, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610830, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610834, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610834, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610834, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610834, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610834, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610834, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610836, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610836, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610836, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610836, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610836, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610836, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610837, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610837, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610837, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610837, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610837, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610837, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610840, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610840, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610840, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610840, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610840, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610840, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610850, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610850, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610850, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610850, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610850, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610850, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610852, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610852, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610852, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610852, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610852, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610852, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610853, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610853, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610853, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610853, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610853, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610853, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610856, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610856, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610856, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610856, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610856, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610856, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610858, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610858, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610858, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610858, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610858, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610858, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610860, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610860, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610860, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610860, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610860, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610860, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610861, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610861, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610861, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610861, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610861, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610861, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610862, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610862, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610862, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610862, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610862, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610862, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610863, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610863, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610863, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610863, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610863, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610863, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610864, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610864, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610864, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610864, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610864, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610864, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610865, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610865, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610865, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610865, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610865, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610865, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610866, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610866, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610866, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610866, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610866, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610866, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610867, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610867, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610867, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610867, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610867, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610867, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610870, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610870, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610870, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610870, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610870, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610870, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610880, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610880, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610880, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610880, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610880, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610880, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610881, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610881, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610881, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610881, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610881, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610881, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610886, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610886, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610886, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610886, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610886, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610886, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610887, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610887, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610887, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610887, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610887, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610887, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610888, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610888, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610888, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610888, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610888, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610888, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610889, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610889, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610889, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610889, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610889, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610889, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610890, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610890, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610890, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610890, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610890, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610890, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610891, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610891, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610891, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610891, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610891, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610891, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610892, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610892, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610892, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610892, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610892, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610892, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610897, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610897, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610897, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610897, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610897, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610897, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610898, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610898, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610898, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610898, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610898, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610898, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610901, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610901, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610901, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610901, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610901, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610901, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610902, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610902, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610902, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610902, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610902, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610902, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610903, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610903, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610903, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610903, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610903, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610903, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610909, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610909, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610909, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610909, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610909, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610909, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610911, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610911, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610911, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610911, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610911, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610911, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610914, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610914, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610914, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610914, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610914, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610914, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610918, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610918, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610918, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610918, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610918, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610918, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610919, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610919, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610919, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610919, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610919, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610919, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610932, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610932, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610932, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610932, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610932, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610932, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610933, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610933, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610933, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610933, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610933, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610933, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610934, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610934, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610934, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610934, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610934, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610934, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610936, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610936, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610936, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610936, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610936, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610936, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610949, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610949, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610949, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610949, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610949, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610949, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610950, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610950, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610950, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610950, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610950, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610950, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610954, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610954, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610954, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610954, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610954, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610954, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610955, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610955, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610955, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610955, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610955, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610955, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610958, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610958, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610958, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610958, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610958, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610958, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610961, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610961, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610961, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610961, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610961, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610961, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610964, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610964, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610964, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610964, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610964, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610964, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610969, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610969, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610969, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610969, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610969, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610969, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610972, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610972, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610972, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610972, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610972, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610972, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610973, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610973, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610973, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610973, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610973, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610973, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610974, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610974, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610974, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610974, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610974, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610974, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610976, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610976, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610976, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610976, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610976, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610976, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610983, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610983, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610983, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610983, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610983, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610983, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610984, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610984, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610984, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610984, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610984, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610984, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610985, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610985, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610985, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610985, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610985, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610985, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610993, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610993, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610993, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610993, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610993, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610993, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610999, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610999, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610999, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610999, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610999, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (610999, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611003, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611003, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611003, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611003, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611003, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611003, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611009, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611009, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611009, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611009, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611009, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611009, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611016, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611016, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611016, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611016, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611016, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611016, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611019, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611019, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611019, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611019, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611019, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611019, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611020, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611020, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611020, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611020, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611020, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611020, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611023, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611023, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611023, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611023, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611023, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611023, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611025, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611025, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611025, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611025, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611025, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611025, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611026, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611026, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611026, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611026, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611026, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611026, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611027, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611027, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611027, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611027, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611027, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611027, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611044, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611044, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611044, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611044, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611044, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611044, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611049, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611049, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611049, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611049, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611049, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611049, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611051, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611051, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611051, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611051, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611051, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611051, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611052, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611052, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611052, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611052, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611052, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611052, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611059, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611059, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611059, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611059, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611059, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611059, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611063, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611063, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611063, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611063, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611063, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611063, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611068, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611068, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611068, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611068, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611068, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611068, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611070, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611070, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611070, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611070, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611070, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611070, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611071, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611071, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611071, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611071, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611071, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611071, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611081, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611081, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611081, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611081, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611081, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611081, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611086, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611086, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611086, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611086, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611086, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611086, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611089, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611089, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611089, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611089, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611089, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611089, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611090, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611090, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611090, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611090, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611090, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611090, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611091, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611091, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611091, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611091, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611091, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611091, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611098, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611098, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611098, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611098, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611098, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611098, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611104, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611104, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611104, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611104, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611104, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611104, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611105, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611105, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611105, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611105, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611105, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611105, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611106, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611106, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611106, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611106, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611106, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611106, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611109, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611109, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611109, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611109, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611109, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611109, 6);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611113, 1);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611113, 2);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611113, 3);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611113, 4);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611113, 5);
+
+insert into arrecant
+	select * from arrecad where (k00_numpre, k00_numpar) = (611113, 6);
